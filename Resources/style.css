@@ -1,0 +1,144 @@
+* {
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+.nav-link {
+    font-size: 25px;
+    color:blueviolet;
+}
+
+.banner {
+    height: 700px;
+}
+
+.colors {
+    color:blueviolet;
+}
+
+#About_Me {
+    background-color: bisque;
+}
+
+.title {
+    text-align: center;
+    margin: 80px auto;
+}
+
+.name {
+    
+    color: #b5168a;
+    font-size: 60px;
+    padding-top: 180px;
+    text-align: center;
+}
+
+.linkedin {
+    margin-left: 10px;
+}
+
+.full {
+    color: #b5168a;
+    font-size: 38px;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.about {
+    padding-left: 15%;
+}
+
+.pic {
+    height: 200px;
+    margin-top: 15%;
+}
+
+.exp {
+    margin-left: 32%;
+    font-size: 22px;
+}
+
+.card-text {
+    font-size: 23px;
+    margin-left: 5%;
+}
+
+#Experience {
+    background-color: #ef6191;
+}
+
+#Education {
+    background-color: #ef61d8;
+}
+
+.education {
+    background-color: bisque;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 26%;
+    padding: 30px 20px;
+}
+
+#Skills {
+    background-color: #4ec2f7;
+}
+
+.proj {
+    margin-left: 22%;
+}
+
+.text {
+    margin-top: 4%;
+    margin-left: 5%;
+}
+
+.card-title {
+    color: #ef61d8;
+    margin-top: 8%;
+}
+
+.card-head {
+    font-size: 22px;
+}
+
+.links {
+    color: #4ec2f7;
+    font-size: 20px;
+}
+
+.color {
+    color: #b5168a;
+}
+
+.down {
+    margin-top: 150px;
+}
+
+.btn {
+    font-size: 22px;
+    margin: 5px 5px;
+    background-color: #ef6191;;
+}
+
+.button {
+    margin-left: 27%;
+}
+
+#Projects {
+    background-color:  #a558cc;
+}
+
+.contact {
+    margin-top: 5%;
+}
+
+.mail {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.foot {
+    height: 230px;
+    margin-top: 30px;
+}
