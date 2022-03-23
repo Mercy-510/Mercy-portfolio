@@ -28,7 +28,7 @@
     
     color: #b5168a;
     font-size: 60px;
-    padding-top: 180px;
+    padding-top: 8%;
     text-align: center;
 }
 
@@ -54,13 +54,12 @@
 }
 
 .exp {
-    margin-left: 32%;
+    margin-left: 30%;
     font-size: 22px;
 }
 
 .card-text {
     font-size: 23px;
-    margin-left: 5%;
 }
 
 #Experience {
@@ -111,7 +110,7 @@
 }
 
 .down {
-    margin-top: 150px;
+    margin-top: 8%;
 }
 
 .btn {
@@ -129,13 +128,17 @@
 }
 
 .contact {
-    margin-top: 5%;
+    margin-top: 3%;
 }
 
 .mail {
     font-size: 20px;
     text-align: center;
     margin-top: 2%;
+}
+
+.copy {
+    font-size: 20px;
 }
 
 .foot {
